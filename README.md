@@ -19,22 +19,11 @@
 
 | Proyecto | Stack | Enlace |
 |---|---|---|
-| APP_ModularDeGestion | TypeScript | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/APP_ModularDeGestion) |
-| Yakusabor-web | HTML, CSS, JavaScript | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/Yakusabor-web) |
-| Proyecto_Caso_Almacen | Java (POO) | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/Proyecto_Caso_Almacen) |
-| Portafolio *(opcional)* | HTML, CSS, Bootstrap | [Repo](https://github.com/VegaHidalgoLincolnJhoel/Portafolio) · [Demo](https://vegahidalgolincolnjhoel.github.io/Portafolio/) |
+| APP_ModularDeGestion | <img src="https://skillicons.dev/icons?i=ts" height="18" /> TypeScript | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/APP_ModularDeGestion) |
+| Yakusabor-web | <img src="https://skillicons.dev/icons?i=html,css,js" height="18" /> HTML, CSS, JavaScript | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/Yakusabor-web) |
+| Proyecto_Caso_Almacen | <img src="https://skillicons.dev/icons?i=java" height="18" /> Java (POO) | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/Proyecto_Caso_Almacen) |
+| Portafolio *(opcional)* | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="18" /> HTML, CSS, Bootstrap | [Repo](https://github.com/VegaHidalgoLincolnJhoel/Portafolio) · [Demo](https://vegahidalgolincolnjhoel.github.io/Portafolio/) |
 
 ## Certificaciones
 - **Cisco Networking Academy — Introduction to Cybersecurity (Verified)**  
   🔗 https://www.credly.com/badges/7ee95db8-a32b-42a6-b60f-8ca4df13d853/public_url
-
-## GitHub stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VegaHidalgoLincolnJhoel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaHidalgoLincolnJhoel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=3" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-36%2B-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/followers/VegaHidalgoLincolnJhoel?style=for-the-badge&logo=github&label=Followers" />
-</p>
