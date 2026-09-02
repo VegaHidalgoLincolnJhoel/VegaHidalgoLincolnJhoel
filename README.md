@@ -10,9 +10,10 @@
 ---
 
 ## Stack principal
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,nodejs,mysql,postgres,git,github,vscode" />
-</p>
+**Frontend** · <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" height="28" />  
+**Backend** · <img src="https://skillicons.dev/icons?i=java,nodejs" height="28" />  
+**Base de datos** · <img src="https://skillicons.dev/icons?i=mysql,postgres" height="28" />  
+**Herramientas** · <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="28" />
 
 ## Proyectos destacados
 - **APP_ModularDeGestion** → Arquitectura modular en TypeScript  
@@ -30,8 +31,8 @@
 
 ## GitHub stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VegaHidalgoLincolnJhoel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaHidalgoLincolnJhoel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VegaHidalgoLincolnJhoel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaHidalgoLincolnJhoel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" />
 </p>
 
 <p align="center"><i>Construyendo soluciones reales, con código limpio y visión de producto.</i></p>
