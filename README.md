@@ -30,8 +30,11 @@
 
 ## GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VegaHidalgoLincolnJhoel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VegaHidalgoLincolnJhoel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VegaHidalgoLincolnJhoel&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VegaHidalgoLincolnJhoel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=3" />
 </p>
 
-<p align="center"><i>Si no cargan los stats temporalmente, revisa directamente mis repositorios destacados arriba.</i></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-36%2B-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/VegaHidalgoLincolnJhoel?style=for-the-badge&logo=github&label=Followers" />
+</p>
