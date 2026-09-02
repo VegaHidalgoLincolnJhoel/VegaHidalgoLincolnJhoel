@@ -16,18 +16,13 @@
 **Herramientas** · <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="28" />
 
 ## Proyectos destacados
-- **APP_ModularDeGestion** → Arquitectura modular en TypeScript  
-  🔗 https://github.com/VegaHidalgoLincolnJhoel/APP_ModularDeGestion
 
-- **Yakusabor-web** → Proyecto web enfocado en interfaz, presentación de contenido e implementación frontend  
-  🔗 https://github.com/VegaHidalgoLincolnJhoel/Yakusabor-web
-
-- **Proyecto_Caso_Almacen** → Sistema en Java POO para gestión de almacén  
-  🔗 https://github.com/VegaHidalgoLincolnJhoel/Proyecto_Caso_Almacen
-
-- **Portafolio** *(opcional destacado por despliegue y marca personal)* → Sitio personal publicado en GitHub Pages  
-  🔗 Repo: https://github.com/VegaHidalgoLincolnJhoel/Portafolio  
-  🌐 Demo: https://vegahidalgolincolnjhoel.github.io/Portafolio/
+| Proyecto | Stack | Enlace |
+|---|---|---|
+| APP_ModularDeGestion | TypeScript | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/APP_ModularDeGestion) |
+| Yakusabor-web | HTML, CSS, JavaScript | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/Yakusabor-web) |
+| Proyecto_Caso_Almacen | Java (POO) | [Repositorio](https://github.com/VegaHidalgoLincolnJhoel/Proyecto_Caso_Almacen) |
+| Portafolio *(opcional)* | HTML, CSS, Bootstrap | [Repo](https://github.com/VegaHidalgoLincolnJhoel/Portafolio) · [Demo](https://vegahidalgolincolnjhoel.github.io/Portafolio/) |
 
 ## Certificaciones
 - **Cisco Networking Academy — Introduction to Cybersecurity (Verified)**  
